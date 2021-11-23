@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+body {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    float: center;
+}
+
+
+hr.style1{
+	border-top: 2px solid #ffffff;
+    margin-top: -0.5em;
+    margin-bottom: -1.5em;
+    opacity: 1;
+}
+
+
+
+button {
+    background-color: #000000;
+    color: white;
+    border:none;
+    font-size: 1.3em; 
+    line-height: 0.98em; 
+    padding-top: 6.149em; 
+    margin-left: em;
+}
+
+
+
+h4 { color: #ffffff; font-size: 14em; line-height: 0.98em; margin-top: -0.1em;}
+h3 {  color: #ffffff; font-size: 14em; line-height: 0.98em; text-align: right; font-weight: bold;padding-left: 3.8em;}
+h2 { color:#FAA308; font-size: 2em;}
+h5 { color: #ffffff; font-size: 1.3em; line-height: 0.98em; padding-top: 4em;}
+h6 { color: #ffffff; font-size: 1.3em; line-height: 0.98em; padding-top: 6.149em; margin-left: 88EM;}
+
+
+button { font-size: 1.5em;}
+
+
+
+
+
+
